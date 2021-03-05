@@ -1,4 +1,4 @@
 second file
 Inserting a modification on line 2
-here's a modification
+here's a mod with a mod
 here's another modification
